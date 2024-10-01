@@ -12,7 +12,7 @@ public class WordSorter
 		Scanner in;
 		try
 		{
-			in = new Scanner(new File("test.txt"));	
+			in = new Scanner(new File("article.txt"));	
 		}
 		catch(Exception e)
 		{
