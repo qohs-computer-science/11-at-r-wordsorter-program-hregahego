@@ -37,7 +37,7 @@ public class WordSorter
 		}
 		boolean loop = true;
         while (loop) {
-            System.out.println("Select an option using this format: {#} - {any additional information}");
+            System.out.println("Select an option using this format: {#} -{any additional information}");
             System.out.println("1: Print out all words starting with a specific letter");
             System.out.println("2: Print out all words");
             System.out.println("3: Print out the total number of unique words");
